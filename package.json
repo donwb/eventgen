@@ -2,6 +2,6 @@
   "name": "MyFaker",
   "version": "1.0.0",
   "dependencies": {
-
+	"faker": "4.1"
   }
 }
