@@ -9,3 +9,8 @@ console.log(aName)
 
 console.log(faker.name.findName());
 
+// Now some edits from vscode
+
+console.log(faker.name.firstName());
+console.log(faker.name.lastName());
+
