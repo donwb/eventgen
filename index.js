@@ -14,3 +14,8 @@ console.log(faker.name.findName());
 console.log(faker.name.firstName());
 console.log(faker.name.lastName());
 
+console.log(faker.name.findName());
+
+
+console.log(faker.name.firstName());
+
